@@ -1,6 +1,6 @@
 # AWS-Lambda-Python
 
-En esta practica pondremos el ejemplo de trabajar con python y discord, junto a AWS.
+En esta practica pondremos el ejemplo de trabajar con python y discord, junto a AWS. Es decir, crear un *virtual environment* y como se configura la capa de la funciones.
 
 Empezamos instalando el python y dentro de la carpeta "venv", crearemos un *.py* para donde pondremos el siguiente código:
 
