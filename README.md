@@ -91,8 +91,10 @@ def lambda_handler(event, context):
     }
 
 ``` 
-y vamos al apartado de **Layers** y le damos a **Añadir una capa**.
+Y vamos al apartado de **Layers** y le damos a **Añadir una capa**.
 
-Dentro de este apartado escogeremos la opción de *Capas personalizadas* y elegiremos la capa que hayamos creado.
+Dentro de este apartado escogeremos la opción de *Capas personalizadas* y elegiremos la capa que hayamos creado. 
 
 **OJO!!, antes de hacer este paso debemos CREAR UNA CAPA**. Para ello crearemos un carpeta , por ejemplo *python* e iremos a */lib* donde haremos un *.zip* y la copiaremos dentro del directorio creado, para que se pueda agregar al AWS.
+
+En estos pasos, como en el de las capas, tendremos que especificar en que versión estamos de Python y marcaremos la versión de *x86*.
